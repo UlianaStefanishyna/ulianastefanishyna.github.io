@@ -1,4 +1,3 @@
-
 ## User community
 
 <table>
